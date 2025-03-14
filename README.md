@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adwinmienu
 - 👀 I’m interested in XR & Game Dev
-- 🌱 I’m currently learning Python, C# & Rust
+- 🌱 I’m currently learning Python, C & Go
 - 💞️ I’m looking to collaborate on Games & Spatial Computing
 - 📫 How to reach me @adwinmienu everywhere.
 - 😄 Pronouns: he/him
